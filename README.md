@@ -13,8 +13,8 @@
 </p> 
 
 - 👋 Hi, I’m @KesavanPanneerselvam
--	Totally I have 7+ years of working experience as an Android Developer.
--	I am familiar with Eclipse, Android Studio and I have basic knowledge of React.Js.
+-	Totally I have 9+ years of working experience as an Android Developer.
+-	I am familiar with Eclipse, Android Studio and I have basic knowledge of Flutter.
 -	I have developed more that 10 applications from scratch in my career time. Also, I have migrated some apps from Java to Kotlin in last 3 three years.
 -	I have development experience in different type of applications like IOT, Banking, Location service and social media.
 -	I have great knowledge and development experience in reactive programming with RxJava and Dependency Injection.
